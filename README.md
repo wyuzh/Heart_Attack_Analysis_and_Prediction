@@ -2,6 +2,13 @@
 > ***Please carefully read the [Disclaimer of Liability](#disclaimer-of-liability) below first.***  
 > All materials in this archive are for reference only. The actual one may vary. 
 
+> [!WARNING]
+> 8 Sept 2025:  
+> A bug has been fixed in [Heart_Attack_Analysis_and_Prediction_Code.ipynb](./Heart_Attack_Analysis_and_Prediction_Code.ipynb),  
+> where Line 10 and Line 11 in section **3. Data preprocessing** has been updated,  
+> which may thus cause a discrepancy between actual experiment results and those reported.  
+> All materials in this archive are for reference only. The actual one may vary.
+
 # Heart_Attack_Analysis_and_Prediction
 
 > *A Project of Data Mining and Data Warehousing (COMP4433) subject at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), made by [ZHANG Wengyu](https://github.com/zhangwengyu999)*, 2023/2024 Semester 1.
